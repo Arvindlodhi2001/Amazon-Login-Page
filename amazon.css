@@ -1,0 +1,129 @@
+
+
+         body
+         {
+           background-image: url(images/amazon7.jpg);
+           background-size: cover;
+           background-repeat: no-repeat;
+         }
+
+         .image
+         {
+            display: flex;
+            justify-content: center;
+            margin-top: 3%;
+         }
+
+
+        .image img
+        {
+            height: 68px;
+            width: 18%;
+            display: flex;
+            
+            text-align: center;
+        }
+
+        .foram
+        {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+
+        form
+        {
+            border: 1px solid black;
+            height: 475px;
+            width:28%;
+            padding: 30px;
+            background-color: rgba(139, 163, 236 ,.4);
+        }
+
+        fieldset h1
+        {
+            text-align: center;
+            font-weight: bold;
+            font-family: arial;
+            
+        }
+        .email
+        {
+            font-weight: bold;
+            padding-top: 35px;
+        }
+
+        label
+        {
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        input
+        {
+            width: 100%;
+            height: 40px;
+            border-radius: 10px;
+            font-weight: bold;
+            border:2px solid rgb(246, 202, 60);
+            border-color: rgb(246, 202, 60);
+            
+        }
+         input:hover 
+        {
+           border: 2px solid rgb(246, 202, 60);
+            box-shadow: 10px 10px 10px  4px rgb(246, 202, 60);
+        }
+
+        button
+        {
+            
+            background-color: orange;
+            height: 40px;
+            width: 325px;
+            font-weight: bold;
+            font-size: 40px;
+            border-color: rgb(246, 202, 60) ;
+            
+        }
+
+        button:hover
+        {
+            box-shadow: 10px 10px 10px  4px rgb(246, 202, 60);
+        }
+
+        #submitbtn
+        {  
+            border-radius: 15px;
+        }
+
+        p
+        {
+         font-size: 14px;
+        }
+        a
+        {
+            font-weight: bold;
+        }
+         
+        
+        .formmaa
+        {
+            margin-left:36%;
+            margin-top: 20px;
+            border: 0px solid black;
+           
+            width: 28%;
+
+        }
+
+         .form2
+        {
+         padding:30px;  
+         height: 100px;
+         width: 100%;
+         border-radius: 15px;
+        }
+
+    
